@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dghooley/jest-another-RPG#readme",
   "dependencies": {
     "inquirer": "^8.1.5"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
